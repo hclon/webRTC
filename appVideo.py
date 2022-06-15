@@ -9,4 +9,4 @@ st.set_page_config(page_title="Dashboard", layout ="wide")
 
 st.write("webRTC")  
 
-webrtc_streamer(key="example")
+webrtc_streamer(key="qr")
