@@ -1,6 +1,6 @@
 pandas
 streamlit
-grcode
+qrcode
 cv2
 numpy
 streamlit_webrtc
