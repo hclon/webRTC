@@ -2,4 +2,6 @@ pandas
 streamlit
 opencv-contrib-python-headless
 numpy
+aioice==0.7.5
+aiortc==1.2.0
 streamlit_webrtc == 0.40.0
