@@ -1,2 +1,6 @@
 pandas
 streamlit
+grcode
+cv2
+numpy
+streamlit_webrtc
