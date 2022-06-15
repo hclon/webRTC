@@ -8,3 +8,4 @@ from streamlit_webrtc import webrtc_streamer
 st.set_page_config(page_title="Dashboard", layout ="wide")
 
 st.write("webRTC")  
+webrtc_streamer(key="sample")
