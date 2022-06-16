@@ -2,6 +2,6 @@ pandas
 aiortc
 numpy
 streamlit
-streamlit_webrtc
+streamlit_webrtc==0.40.0
 opencv-python-headless==4.6.0.66
 
