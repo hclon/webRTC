@@ -1,7 +1,7 @@
 pandas
 aiortc
 numpy
-streamlit                      
-streamlit_webrtc                                                                               
-opencv-python-headless
+streamlit
+streamlit_webrtc
+opencv-python-headless == 4.6.0.66
 mediapipe
